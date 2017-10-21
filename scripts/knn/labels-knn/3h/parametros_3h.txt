@@ -1,0 +1,3 @@
+janela 3h,threshold
+3h_k1,0.45
+3h_k2,0.88

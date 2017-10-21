@@ -1,0 +1,6 @@
+janela 6h,threshold
+6h_k1,0.2	
+6h_k2,0.45	
+6h_k3,0.8	
+6h_k4,1.1
+6h_k5,1.38
