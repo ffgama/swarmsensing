@@ -1,5 +1,7 @@
 
-**PROJECT: SWARM SENSING - ANOMALY DETECTION BASED ON RECORDS BEES ACTIVITIES.
+# SWARM SENSING 
+
+**PROJECT: ANOMALY DETECTION BASED ON RECORDS BEES ACTIVITIES.
 
 
 Description: Anomaly detection using traditional techniques such as KNN (distance measure) and LOF (density measure) based on records bees activities.
