@@ -1,6 +1,4 @@
-- Project Name: Swarm sensing 
-
-Summary: Anomaly detection based on records bees activities.
+PROJECT: Swarm sensing -  Anomaly detection based on records bees activities.
 
 Description: Anomaly detection using traditional techniques such as KNN (distance measure) and LOF (density measure) based on records bees activities.
 
