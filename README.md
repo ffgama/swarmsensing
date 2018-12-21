@@ -1,4 +1,4 @@
-PROJECT: Swarm sensing -  Anomaly detection based on records bees activities.
+PROJECT: SWARM SENSING - ANOMALY DETECTION BASED ON RECORDS BEES ACTIVITIES.
 
 Description: Anomaly detection using traditional techniques such as KNN (distance measure) and LOF (density measure) based on records bees activities.
 
