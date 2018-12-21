@@ -1,4 +1,6 @@
-PROJECT: SWARM SENSING - ANOMALY DETECTION BASED ON RECORDS BEES ACTIVITIES.
+
+**PROJECT: SWARM SENSING - ANOMALY DETECTION BASED ON RECORDS BEES ACTIVITIES.
+
 
 Description: Anomaly detection using traditional techniques such as KNN (distance measure) and LOF (density measure) based on records bees activities.
 
@@ -7,7 +9,8 @@ Some Features: climates variables (eg. temperature, pressure, solar radiation).
 
 Project: Master's thesis and support from Vale Institute Technology (ITV-DS).
 
-Author: Fernando Gama da Mata
+
+**Author: Fernando Gama da Mata
 
 
 Part 1: Unsupervised Learning: KNN + LOF  (R programming) 
