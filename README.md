@@ -4,6 +4,13 @@ Summary: Anomaly detection based on records bees activities.
 
 Description: Anomaly detection using traditional techniques such as KNN (distance measure) and LOF (density measure) based on records bees activities.
 
+#####
+
+Part 1: Unsupervised Learning: KNN + LOF  (R programming) 
+Part 2: Supervised Learning: Neural Networks + Random Forest + SVM (Weka)
+
+#####
+
 Source data: sensors RFID implanted on bees.
 Some Features: climates variables (eg. temperature, pressure, solar radiation). 
 
